@@ -1,8 +1,8 @@
 # hexo
-<a href='https://travis-ci.org/stkevintan/hexo' target='_blank'>
-  <img src='https://travis-ci.org/stkevintan/hexo.svg?branch=master' alt='travis'/>
-</a>
-My hexo blog source files.  
-Using travis to deploy automatically.  
 
-Blog Url : <http://keyin.me>
+Website for share source code，technology and document.  
+
+Powered by MaterialFlow： <https://github.com/stkevintan/hexo-theme-material-flow>
+
+Powered by Hexo: <https://hexo.io/themes>
+
