@@ -3,19 +3,26 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: World of Forks
-subtitle: Kevin's Home
-description: A blog of Kevin Tan
+title: Codeyou
+subtitle: 技术分析
+description: 代码技术分享网站
 keywords:
+  - 开源代码
+  - 技术分享
+  - 技术文章
+  - k8s
+  - kubernetes
+  - istio
+  - 微服务
+  - 分布式事务
+  - microservice
   - blog
-  - stkevintan
+  - 博客
   - IT
-  - Web Front End
-  - Kevin Tan
-  - kevinsfork
-author: Kevin Tan
+  - lxiaodao
+author: lxiaodao
 avatar: /images/avatar.jpg
-favicon: /images/favicon.ico
+favicon: /images/codey.png
 language: zh-CN
 timezone: Asia/Shanghai
 
