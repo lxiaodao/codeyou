@@ -1,19 +1,16 @@
 ---
 title: Istio对比Springcloud基本分析
 date: 2019-10-17 13:49:52
-
 tags:
   - kubernetes
   - k8s
   - istio
 categories:
   - Service-Mesh
-  
-  
-  
+ 
 ---
    
-
+作者: 李维龙
 ## 1 Istio 是什么
 
 Istio 是一个完全开源的服务网格，可以降低部署的复杂性，集成了多样化的功能保证微服务架构高效的运行，并提供保护、连接和监控微服务的统一方法。
