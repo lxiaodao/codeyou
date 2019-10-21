@@ -44,7 +44,7 @@ menu:
   - name: About
     slug: about
     url: /about
-
+ 
 # friends link
 links:
   - name: ClassicOldSong
@@ -58,7 +58,7 @@ links:
 
 # widgets
 widgets:
-  # - about
+  - about
   - categories
   - tagcloud
   - links  

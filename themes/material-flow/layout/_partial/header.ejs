@@ -6,7 +6,9 @@
 			</a>
 			<div class='menu'>
 				<ul class='h-list'>
-					<% (theme.menu||[]).forEach(function(value){ %>
+					<% (theme.menu||[]).forEach(function(value){ 
+					
+					%>
 						<li>
 							<a class='flat-box nav-<%=value.slug%>' href='<%=url_for(value.url)%>'>
 								<%=value.name%>
