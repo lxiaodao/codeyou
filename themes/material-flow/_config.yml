@@ -32,18 +32,24 @@ menu:
   - name: 分布式系统
     slug: distrubited-system
     url: /categories/distrubited-system
+  - name: AI
+    slug: AI
+    url: /categories/AI
   - name: Java
     slug: java
-    url: /categories/java
+    url: /categories/Java
   - name: Go
     slug: go
-    url: /categories/go
+    url: /categories/Go
+  - name: Python
+    slug: Python
+    url: /categories/Python   
   - name: 归档
     slug: archives
     url: /archives
-  - name: About
-    slug: about
-    url: /about
+ # - name: About
+ #   slug: about
+ #   url: /about
  
 # friends link
 links:
